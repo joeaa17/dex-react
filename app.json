@@ -1,3 +1,7 @@
 {
-  "name": "dex-react"
+  "name": "dex-react",
+  "description": "A Node.js app using the SparkPost Heroku add-on",
+  "repository": "https://github.com/joeaa17/dex-react",
+  "keywords": [],
+  "addons": [ "sparkpost:200k" ]
 }
