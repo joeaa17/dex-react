@@ -1,16 +1,3 @@
 {
-  "name": "dex-react",
-  "description": "This app does one little thing, and does it well.",
-  "keywords": [
-    "productivity",
-    "HTML5",
-    "scalpel"
-  ],
-  "website": "",
-  "repository": "https://github.com/joeaa17/dex-react/",
-  "logo": "",
-  "success_url": "/welcome",
-  "scripts": {
-    "postdeploy": "bundle exec rake bootstrap"
-  }
+  "name": "dex-react"
 }
